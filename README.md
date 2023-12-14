@@ -17,5 +17,3 @@ Study at IFPR<br>Program in: Basic Java and OOP in Java, Python and web developm
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ghost-Theus&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/Ghost-Theus/Ghost-Theus/blob/output/github-contribution-grid-snake.svg)
