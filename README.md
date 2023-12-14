@@ -1,5 +1,5 @@
 # 💫 About Me:
-Study at IFPR<br>Program in: Basic Java and POO in Java, Python and web development
+Study at IFPR<br>Program in: Basic Java and OOP in Java, Python and web development
 
 
 ## 🌐 Socials:
